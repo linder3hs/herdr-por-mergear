@@ -1,0 +1,4 @@
+# Escritos por Herdr al cargar un mod
+*.d.ts
+jsconfig.json
+.DS_Store
